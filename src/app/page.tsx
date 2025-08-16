@@ -35,7 +35,7 @@ function HomePage() {
   };
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 p-8">
+    <main className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 p-8 pt-24">
       <div className="max-w-6xl mx-auto">
         {/* 헤더 */}
         <motion.div
